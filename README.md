@@ -1,6 +1,12 @@
 # data-visualization-project-predict-flood-damage-
 
 
+Overview of project: 
+https://www.youtube.com/watch?v=_qYPu48Xrxc
+
+
+
+
 Follow these steps to set up the environment and run the project:
 
 ### 1. **Open the Terminal**
